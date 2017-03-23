@@ -1,0 +1,104 @@
+{
+    "instances": [
+     {
+            "id": 1001,
+            "priority": 1,
+            "instances": [
+                {
+                    "id": 1001,
+                    "priority": 1,
+                    "package": "duplicatecode.samehierarchy",
+                    "start_line": 5,
+                    "end_line": 28,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/samehierarchy/classA.java"
+                },
+                {
+                    "id": 1002,
+                    "priority": 1,
+                    "package": "duplicatecode.samehierarchy",
+                    "start_line": 5,
+                    "end_line": 20,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/samehierarchy/classB.java"
+                }
+            ],
+            "is_test_file": false
+        },
+        {
+            "id": 1003,
+            "priority": 2,
+            "instances": [
+                {
+                    "id": 1003,
+                    "priority": 2,
+                    "package": "duplicatecode.sameclass",
+                    "start_line": 81,
+                    "end_line": 94,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/sameclass/classA.java"
+                },
+                {
+                    "id": 1004,
+                    "priority": 2,
+                    "package": "duplicatecode.sameclass",
+                    "start_line": 98,
+                    "end_line": 111,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/sameclass/classA.java"
+                }
+            ],
+            "is_test_file": false
+        },
+        {
+            "id": 1005,
+            "priority": 3,
+            "instances": [
+                {
+                    "id": 1005,
+                    "priority": 3,
+                    "package": "duplicatecode.sameclass",
+                    "start_line": 9,
+                    "end_line": 13,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/sameclass/classB.java"
+                },
+                {
+                    "id": 1006,
+                    "priority": 3,
+                    "package": "duplicatecode.sameclass",
+                    "start_line": 23,
+                    "end_line": 27,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/sameclass/classB.java"
+                }
+            ],
+            "is_test_file": false
+        },
+        {
+            "id": 1006,
+            "priority": 4,
+            "instances": [
+                {
+                    "id": 1006,
+                    "priority": 4,
+                    "package": "duplicatecode.differenthierarchy",
+                    "start_line": 9,
+                    "end_line": 28,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/differenthierarchy/classA.java"
+                },
+                {
+                    "id": 1006,
+                    "priority": 4,
+                    "package": "duplicatecode.differenthierarchy",
+                    "start_line": 4,
+                    "end_line": 16,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/differenthierarchy/classB.java"
+                }
+            ],
+            "is_test_file": false
+        }
+    ]
+}
