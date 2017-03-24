@@ -1,11 +1,11 @@
 {
     "instances": [
      {
-            "id": 1001,
+            "id": 100,
             "priority": 1,
             "instances": [
                 {
-                    "id": 1001,
+                    "id": 101,
                     "priority": 1,
                     "package": "duplicatecode.samehierarchy",
                     "start_line": 5,
@@ -14,7 +14,7 @@
                     "file_path": "src/main/java/duplicatecode/samehierarchy/classA.java"
                 },
                 {
-                    "id": 1002,
+                    "id": 102,
                     "priority": 1,
                     "package": "duplicatecode.samehierarchy",
                     "start_line": 5,
@@ -26,11 +26,11 @@
             "is_test_file": false
         },
         {
-            "id": 1003,
+            "id": 200,
             "priority": 2,
             "instances": [
                 {
-                    "id": 1003,
+                    "id": 201,
                     "priority": 2,
                     "package": "duplicatecode.sameclass",
                     "start_line": 81,
@@ -39,7 +39,7 @@
                     "file_path": "src/main/java/duplicatecode/sameclass/classA.java"
                 },
                 {
-                    "id": 1004,
+                    "id": 202,
                     "priority": 2,
                     "package": "duplicatecode.sameclass",
                     "start_line": 98,
@@ -51,11 +51,11 @@
             "is_test_file": false
         },
         {
-            "id": 1005,
+            "id": 300,
             "priority": 3,
             "instances": [
                 {
-                    "id": 1005,
+                    "id": 301,
                     "priority": 3,
                     "package": "duplicatecode.sameclass",
                     "start_line": 9,
@@ -64,7 +64,7 @@
                     "file_path": "src/main/java/duplicatecode/sameclass/classB.java"
                 },
                 {
-                    "id": 1006,
+                    "id": 302,
                     "priority": 3,
                     "package": "duplicatecode.sameclass",
                     "start_line": 23,
@@ -76,11 +76,11 @@
             "is_test_file": false
         },
         {
-            "id": 1006,
+            "id": 400,
             "priority": 4,
             "instances": [
                 {
-                    "id": 1006,
+                    "id": 401,
                     "priority": 4,
                     "package": "duplicatecode.differenthierarchy",
                     "start_line": 9,
@@ -89,7 +89,7 @@
                     "file_path": "src/main/java/duplicatecode/differenthierarchy/classA.java"
                 },
                 {
-                    "id": 1006,
+                    "id": 402,
                     "priority": 4,
                     "package": "duplicatecode.differenthierarchy",
                     "start_line": 4,
