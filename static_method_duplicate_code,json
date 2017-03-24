@@ -1,0 +1,29 @@
+{
+    "instances": [
+     {
+            "id": 500,
+            "priority": 1,
+            "instances": [
+                {
+                    "id": 501,
+                    "priority": 5,
+                    "package": "duplicatecode.staticmethod",
+                    "start_line": 10,
+                    "end_line": 30,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/staticmethod/StaticMethodSampleClassA.java"
+                },
+                {
+                    "id": 502,
+                    "priority": 5,
+                    "package": "duplicatecode.staticmethod",
+                    "start_line": 10,
+                    "end_line": 30,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/staticmethod/StaticMethodSampleClassB.java"
+                }
+            ],
+            "is_test_file": false
+        }
+    ]
+}
