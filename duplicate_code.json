@@ -1,6 +1,7 @@
+
 {
     "instances": [
-     {
+        {
             "id": 100,
             "priority": 1,
             "instances": [
@@ -100,7 +101,7 @@
             ],
             "is_test_file": false
         },
-		{
+        {
             "id": 500,
             "priority": 1,
             "instances": [
