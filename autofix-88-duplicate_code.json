@@ -8,8 +8,8 @@
                     "id": 601,
                     "priority": 6,
                     "package": "duplicatecode.sameclass",
-                    "start_line": 5,
-                    "end_line": 9,
+                    "start_line": 7,
+                    "end_line": 11,
                     "is_test_file": false,
                     "file_path": "src/main/java/duplicatecode/sameclass/ClassC.java"
                 },
@@ -17,8 +17,8 @@
                     "id": 602,
                     "priority": 6,
                     "package": "duplicatecode.sameclass",
-                    "start_line": 10,
-                    "end_line": 18,
+                    "start_line": 16,
+                    "end_line": 20,
                     "is_test_file": false,
                     "file_path": "src/main/java/duplicatecode/sameclass/ClassC.java"
                 }
