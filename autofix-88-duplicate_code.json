@@ -1,0 +1,29 @@
+{
+    "instances": [
+     {
+            "id": 600,
+            "priority": 1,
+            "instances": [
+                {
+                    "id": 601,
+                    "priority": 6,
+                    "package": "duplicatecode.sameclass",
+                    "start_line": 5,
+                    "end_line": 9,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/sameclass/ClassC.java"
+                },
+                {
+                    "id": 602,
+                    "priority": 6,
+                    "package": "duplicatecode.sameclass",
+                    "start_line": 10,
+                    "end_line": 18,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/sameclass/ClassC.java"
+                }
+            ],
+            "is_test_file": false
+        }
+    ]
+}
