@@ -1,0 +1,130 @@
+
+{
+    "instances": [
+        {
+            "id": 100,
+            "priority": 1,
+            "instances": [
+                {
+                    "id": 101,
+                    "priority": 1,
+                    "package": "duplicatecode.samehierarchy",
+                    "start_line": 5,
+                    "end_line": 28,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/samehierarchy/classA.java"
+                },
+                {
+                    "id": 102,
+                    "priority": 1,
+                    "package": "duplicatecode.samehierarchy",
+                    "start_line": 5,
+                    "end_line": 20,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/samehierarchy/classB.java"
+                }
+            ],
+            "is_test_file": false
+        },
+        {
+            "id": 200,
+            "priority": 2,
+            "instances": [
+                {
+                    "id": 201,
+                    "priority": 2,
+                    "package": "duplicatecode.sameclass",
+                    "start_line": 81,
+                    "end_line": 94,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/sameclass/classA.java"
+                },
+                {
+                    "id": 202,
+                    "priority": 2,
+                    "package": "duplicatecode.sameclass",
+                    "start_line": 98,
+                    "end_line": 111,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/sameclass/classA.java"
+                }
+            ],
+            "is_test_file": false
+        },
+        {
+            "id": 300,
+            "priority": 3,
+            "instances": [
+                {
+                    "id": 301,
+                    "priority": 3,
+                    "package": "duplicatecode.sameclass",
+                    "start_line": 11,
+                    "end_line": 15,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/sameclass/classB.java"
+                },
+                {
+                    "id": 302,
+                    "priority": 3,
+                    "package": "duplicatecode.sameclass",
+                    "start_line": 25,
+                    "end_line": 29,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/sameclass/classB.java"
+                }
+            ],
+            "is_test_file": false
+        },
+        {
+            "id": 400,
+            "priority": 4,
+            "instances": [
+                {
+                    "id": 401,
+                    "priority": 4,
+                    "package": "duplicatecode.differenthierarchy",
+                    "start_line": 9,
+                    "end_line": 28,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/differenthierarchy/classA.java"
+                },
+                {
+                    "id": 402,
+                    "priority": 4,
+                    "package": "duplicatecode.differenthierarchy",
+                    "start_line": 4,
+                    "end_line": 16,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/differenthierarchy/classB.java"
+                }
+            ],
+            "is_test_file": false
+        },
+        {
+            "id": 500,
+            "priority": 1,
+            "instances": [
+                {
+                    "id": 501,
+                    "priority": 5,
+                    "package": "duplicatecode.staticmethod",
+                    "start_line": 10,
+                    "end_line": 30,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/staticmethod/StaticMethodSampleClassA.java"
+                },
+                {
+                    "id": 502,
+                    "priority": 5,
+                    "package": "duplicatecode.staticmethod",
+                    "start_line": 10,
+                    "end_line": 30,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/staticmethod/StaticMethodSampleClassB.java"
+                }
+            ],
+            "is_test_file": false
+        }
+    ]
+}
