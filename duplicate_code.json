@@ -59,8 +59,8 @@
                     "id": 301,
                     "priority": 3,
                     "package": "duplicatecode.sameclass",
-                    "start_line": 11,
-                    "end_line": 15,
+                    "start_line": 17,
+                    "end_line": 25,
                     "is_test_file": false,
                     "file_path": "src/main/java/duplicatecode/sameclass/classB.java"
                 },
@@ -68,8 +68,8 @@
                     "id": 302,
                     "priority": 3,
                     "package": "duplicatecode.sameclass",
-                    "start_line": 25,
-                    "end_line": 29,
+                    "start_line": 37,
+                    "end_line": 45,
                     "is_test_file": false,
                     "file_path": "src/main/java/duplicatecode/sameclass/classB.java"
                 }
