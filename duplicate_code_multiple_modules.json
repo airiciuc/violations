@@ -1,0 +1,30 @@
+
+{
+    "instances": [
+        {
+            "id": 101,
+            "priority": 1,
+            "instances": [
+                {
+                    "id": 102,
+                    "priority": 1,
+                    "package": "duplicatecode.samehierarchy",
+                    "start_line": 5,
+                    "end_line": 28,
+                    "is_test_file": false,
+                    "file_path": "module1/src/main/java/duplicatecode/samehierarchy/classA.java"
+                },
+                {
+                    "id": 103,
+                    "priority": 1,
+                    "package": "duplicatecode.samehierarchy",
+                    "start_line": 5,
+                    "end_line": 20,
+                    "is_test_file": false,
+                    "file_path": "module2/src/main/java/duplicatecode/samehierarchy/classB.java"
+                }
+            ],
+            "is_test_file": false
+        }
+	]
+}
