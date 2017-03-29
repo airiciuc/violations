@@ -59,8 +59,8 @@
                     "id": 301,
                     "priority": 3,
                     "package": "duplicatecode.sameclass",
-                    "start_line": 11,
-                    "end_line": 15,
+                    "start_line": 17,
+                    "end_line": 25,
                     "is_test_file": false,
                     "file_path": "src/main/java/duplicatecode/sameclass/classB.java"
                 },
@@ -68,8 +68,8 @@
                     "id": 302,
                     "priority": 3,
                     "package": "duplicatecode.sameclass",
-                    "start_line": 25,
-                    "end_line": 29,
+                    "start_line": 37,
+                    "end_line": 45,
                     "is_test_file": false,
                     "file_path": "src/main/java/duplicatecode/sameclass/classB.java"
                 }
@@ -122,6 +122,31 @@
                     "end_line": 30,
                     "is_test_file": false,
                     "file_path": "src/main/java/duplicatecode/staticmethod/StaticMethodSampleClassB.java"
+                }
+            ],
+            "is_test_file": false
+        },
+        {
+            "id": 600,
+            "priority": 1,
+            "instances": [
+                {
+                    "id": 601,
+                    "priority": 6,
+                    "package": "duplicatecode.sameclass",
+                    "start_line": 7,
+                    "end_line": 11,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/sameclass/ClassC.java"
+                },
+                {
+                    "id": 602,
+                    "priority": 6,
+                    "package": "duplicatecode.sameclass",
+                    "start_line": 16,
+                    "end_line": 20,
+                    "is_test_file": false,
+                    "file_path": "src/main/java/duplicatecode/sameclass/ClassC.java"
                 }
             ],
             "is_test_file": false
