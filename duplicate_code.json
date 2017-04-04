@@ -150,6 +150,31 @@
                 }
             ],
             "is_test_file": false
+        },
+        {
+            "id": 700,
+            "priority": 1,
+            "instances": [
+                {
+                    "id": 701,
+                    "priority": 1,
+                    "package": "duplicatecode.differenthierarchy",
+                    "start_line": 5,
+                    "end_line": 28,
+                    "is_test_file": false,
+                    "file_path": "module1/src/main/java/duplicatecode/differenthierarchy/classA.java"
+                },
+                {
+                    "id": 702,
+                    "priority": 1,
+                    "package": "duplicatecode.differenthierarchy",
+                    "start_line": 5,
+                    "end_line": 20,
+                    "is_test_file": false,
+                    "file_path": "module2/src/main/java/duplicatecode/differenthierarchy/classB.java"
+                }
+            ],
+            "is_test_file": false
         }
     ]
 }
