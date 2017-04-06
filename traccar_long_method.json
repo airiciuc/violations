@@ -9,7 +9,7 @@
          "start_line": 231,
          "end_line": 292,
          "is_test_file": false,
-         "file_path": "/traccar/src/org/traccar/protocol/GalileoProtocolDecoder.java"
+         "file_path": "/src/org/traccar/protocol/GalileoProtocolDecoder.java"
       }
   ]
 }
