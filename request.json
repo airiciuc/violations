@@ -14,7 +14,7 @@
  "client_id": "Aurea",
  "pull_request" : {
  	"scm_type" : "GITHUB",
- 	"repository_url" : "https://github.com/trilogy-group/autofix-test.git",
+ 	"repository_url" : "https://github.com/trilogy-group/devfactory-autofix-test.git",
  	"target_branch" : "master"
  }
 }
