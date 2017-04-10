@@ -8,8 +8,8 @@
                     "id": 801,
                     "priority": 8,
                     "package": "duplicatecode.samehierarchy.animal",
-                    "start_line": 13,
-                    "end_line": 15,
+                    "start_line": 12,
+                    "end_line": 16,
                     "is_test_file": false,
                     "file_path": "src/main/java/duplicatecode/samehierarchy/animal/Dog.java"
                 },
@@ -17,8 +17,8 @@
                     "id": 802,
                     "priority": 8,
                     "package": "duplicatecode.samehierarchy.animal",
-                    "start_line": 9,
-                    "end_line": 11,
+                    "start_line": 8,
+                    "end_line": 12,
                     "is_test_file": false,
                     "file_path": "src/main/java/duplicatecode/samehierarchy/animal/Fish.java"
                 }
