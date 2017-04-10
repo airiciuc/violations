@@ -27,31 +27,6 @@
             "is_test_file": false
         },
         {
-            "id": 200,
-            "priority": 2,
-            "instances": [
-                {
-                    "id": 201,
-                    "priority": 2,
-                    "package": "duplicatecode.sameclass",
-                    "start_line": 81,
-                    "end_line": 94,
-                    "is_test_file": false,
-                    "file_path": "src/main/java/duplicatecode/sameclass/classA.java"
-                },
-                {
-                    "id": 202,
-                    "priority": 2,
-                    "package": "duplicatecode.sameclass",
-                    "start_line": 98,
-                    "end_line": 111,
-                    "is_test_file": false,
-                    "file_path": "src/main/java/duplicatecode/sameclass/classA.java"
-                }
-            ],
-            "is_test_file": false
-        },
-        {
             "id": 300,
             "priority": 3,
             "instances": [
