@@ -1,0 +1,21 @@
+{
+ "Product_version_id": 10667,
+ "violations_url": "https://raw.githubusercontent.com/airiciuc/violations/master/traccar_long_method.json",
+ "meta_data": {
+  "name": "traccar",
+  "language": {
+   "version": "8",
+   "name": "java"
+  },
+  "libraries_location": "s3://autofix-exp/sources/traccar/lib.zip",
+  "binaries_location": "s3://autofix-exp/sources/traccar/traccar.zip",
+  "sources_location": "s3://autofix-exp/sources/traccar/traccar.zip"
+ },
+ "client_id": "Aurea",
+ "pull_request": {
+	"scm_type": "GITHUB",
+	"target_branch": "master",
+	"repository_url": "https://github.com/airiciuc/traccar.git"
+ }
+ 
+}
