@@ -86,7 +86,7 @@
                     "start_line": 7,
                     "end_line": 11,
                     "is_test_file": false,
-                    "file_path": "devfactory-autofix-test/src/input/java/duplicatecode/sameclass/test3/ClassC.java"
+                    "file_path": "devfactory-autofix-test/src/input/java/duplicatecode/sameclass/test3/classC.java"
                 },
                 {
                     "id": 402,
@@ -95,7 +95,7 @@
                     "start_line": 16,
                     "end_line": 20,
                     "is_test_file": false,
-                    "file_path": "devfactory-autofix-test/src/input/java/duplicatecode/sameclass/test3/ClassC.java"
+                    "file_path": "devfactory-autofix-test/src/input/java/duplicatecode/sameclass/test3/classC.java"
                 }
             ],
             "is_test_file": false
