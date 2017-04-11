@@ -1,0 +1,20 @@
+{
+ "Product_version_id": 3827,
+ "violations_url": "https://raw.githubusercontent.com/airiciuc/violations/master/duplicate_code.json",
+ "meta_data": {
+  "name": "AUTOFIX-TEST",
+  "language": {
+   "version": "8",
+   "name": "java"
+  },
+  "libraries_location": "s3://autofix-exp/sources/test-project/autofix-test.zip",
+  "binaries_location": "s3://autofix-exp/sources/test-project/autofix-test.zip",
+  "sources_location": "s3://autofix-exp/sources/test-project/autofix-test.zip"
+ },
+ "client_id": "Aurea",
+ "pull_request" : {
+ 	"scm_type" : "GITHUB",
+ 	"repository_url" : "https://github.com/trilogy-group/devfactory-autofix-test.git",
+ 	"target_branch" : "master"
+ }
+}

@@ -1,0 +1,15 @@
+{
+   "instances": [
+      {
+         "id": 1000,
+         "priority": 1000,
+         "package": "(Unnamed_Package)",
+         "class_name": "GalileoProtocolDecoder",
+         "method_name": "decode",
+         "start_line": 231,
+         "end_line": 292,
+         "is_test_file": false,
+         "file_path": "/src/org/traccar/protocol/GalileoProtocolDecoder.java"
+      }
+  ]
+}
