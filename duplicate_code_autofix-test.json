@@ -11,7 +11,7 @@
                     "start_line": 5,
                     "end_line": 28,
                     "is_test_file": false,
-                    "file_path": "devfactory-autofix-test/src/input/java/duplicatecode/differentclass/samehierarchy/test1/classA.java"
+                    "file_path": "src/input/java/duplicatecode/differentclass/samehierarchy/test1/classA.java"
                 },
                 {
                     "id": 102,
@@ -20,7 +20,7 @@
                     "start_line": 5,
                     "end_line": 20,
                     "is_test_file": false,
-                    "file_path": "devfactory-autofix-test/src/input/java/duplicatecode/differentclass/samehierarchy/test1/classB.java"
+                    "file_path": "src/input/java/duplicatecode/differentclass/samehierarchy/test1/classB.java"
                 }
             ],
             "is_test_file": false
@@ -36,7 +36,7 @@
                     "start_line": 91,
                     "end_line": 101,
                     "is_test_file": false,
-                    "file_path": "devfactory-autofix-test/src/input/java/duplicatecode/sameclass/test1/classA.java"
+                    "file_path": "src/input/java/duplicatecode/sameclass/test1/classA.java"
                 },
                 {
                     "id": 202,
@@ -45,7 +45,7 @@
                     "start_line": 116,
                     "end_line": 126,
                     "is_test_file": false,
-                    "file_path": "devfactory-autofix-test/src/input/java/duplicatecode/sameclass/test1/classA.java"
+                    "file_path": "src/input/java/duplicatecode/sameclass/test1/classA.java"
                 }
             ],
             "is_test_file": false
@@ -61,7 +61,7 @@
                     "start_line": 17,
                     "end_line": 25,
                     "is_test_file": false,
-                    "file_path": "devfactory-autofix-test/src/input/java/duplicatecode/sameclass/test2/classB.java"
+                    "file_path": "src/input/java/duplicatecode/sameclass/test2/classB.java"
                 },
                 {
                     "id": 302,
@@ -70,7 +70,7 @@
                     "start_line": 37,
                     "end_line": 45,
                     "is_test_file": false,
-                    "file_path": "devfactory-autofix-test/src/input/java/duplicatecode/sameclass/test2/classB.java"
+                    "file_path": "src/input/java/duplicatecode/sameclass/test2/classB.java"
                 }
             ],
             "is_test_file": false
@@ -86,7 +86,7 @@
                     "start_line": 7,
                     "end_line": 11,
                     "is_test_file": false,
-                    "file_path": "devfactory-autofix-test/src/input/java/duplicatecode/sameclass/test3/classC.java"
+                    "file_path": "src/input/java/duplicatecode/sameclass/test3/classC.java"
                 },
                 {
                     "id": 402,
@@ -95,7 +95,7 @@
                     "start_line": 16,
                     "end_line": 20,
                     "is_test_file": false,
-                    "file_path": "devfactory-autofix-test/src/input/java/duplicatecode/sameclass/test3/classC.java"
+                    "file_path": "src/input/java/duplicatecode/sameclass/test3/classC.java"
                 }
             ],
             "is_test_file": false
@@ -111,7 +111,7 @@
                     "start_line": 9,
                     "end_line": 28,
                     "is_test_file": false,
-                    "file_path": "devfactory-autofix-test/src/input/java/duplicatecode/differentclass/differenthierarchy/test1/classA.java"
+                    "file_path": "src/input/java/duplicatecode/differentclass/differenthierarchy/test1/classA.java"
                 },
                 {
                     "id": 502,
@@ -120,7 +120,7 @@
                     "start_line": 4,
                     "end_line": 16,
                     "is_test_file": false,
-                    "file_path": "devfactory-autofix-test/src/input/java/duplicatecode/differentclass/differenthierarchy/test1/classB.java"
+                    "file_path": "src/input/java/duplicatecode/differentclass/differenthierarchy/test1/classB.java"
                 }
             ],
             "is_test_file": false
@@ -136,7 +136,7 @@
                     "start_line": 10,
                     "end_line": 30,
                     "is_test_file": false,
-                    "file_path": "devfactory-autofix-test/src/input/java/duplicatecode/differentclass/staticmethod/test1/StaticMethodSampleClassA.java"
+                    "file_path": "src/input/java/duplicatecode/differentclass/staticmethod/test1/StaticMethodSampleClassA.java"
                 },
                 {
                     "id": 602,
@@ -145,7 +145,7 @@
                     "start_line": 10,
                     "end_line": 30,
                     "is_test_file": false,
-                    "file_path": "devfactory-autofix-test/src/input/java/duplicatecode/differentclass/staticmethod/test1/StaticMethodSampleClassB.java"
+                    "file_path": "src/input/java/duplicatecode/differentclass/staticmethod/test1/StaticMethodSampleClassB.java"
                 }
             ],
             "is_test_file": false
@@ -161,7 +161,7 @@
                     "start_line": 5,
                     "end_line": 28,
                     "is_test_file": false,
-                    "file_path": "devfactory-autofix-test/module1/src/main/java/duplicatecode/differenthierarchy/classA.java"
+                    "file_path": "module1/src/main/java/duplicatecode/differenthierarchy/classA.java"
                 },
                 {
                     "id": 702,
@@ -170,7 +170,7 @@
                     "start_line": 5,
                     "end_line": 20,
                     "is_test_file": false,
-                    "file_path": "devfactory-autofix-test/module2/src/main/java/duplicatecode/differenthierarchy/classB.java"
+                    "file_path": "module2/src/main/java/duplicatecode/differenthierarchy/classB.java"
                 }
             ],
             "is_test_file": false
