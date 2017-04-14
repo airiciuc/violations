@@ -1,0 +1,15 @@
+{
+"instances": [
+{
+"id": 121057255,
+"priority": 38,
+"package": "com.devfactory.strongtest.processor.service",
+"class_name": "com.devfactory.strongtest.processor.service.ResourceService",
+"method_name": "com.devfactory.strongtest.processor.service.ResourceService.extractCode",
+"start_line": 161,
+"end_line": 198,
+"is_test_file": false,
+"file_path": "strongtest-processor/src/main/java/com/devfactory/strongtest/processor/service/ResourceService.java"
+}
+]
+}
