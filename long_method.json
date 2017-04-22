@@ -1,0 +1,15 @@
+{
+  "instances": [
+    {
+      "id": 100,
+      "priority": 1,
+      "package": "longmethod.extractmethodobject",
+      "class_name": "longmethod.extractmethodobject.Account",
+      "method_name": "gamma",
+      "start_line": 13,
+      "end_line": 23,
+      "is_test_file": false,
+      "file_path": "src/main/java/longmethod/extractmethodobject/Account.java"
+    }
+  ]
+}
